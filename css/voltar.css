@@ -1,0 +1,16 @@
+.cima {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: 'Press Start 2P', cursive;    font-weight: 400;
+}
+
+.head {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    margin-top: 1%;
+}
