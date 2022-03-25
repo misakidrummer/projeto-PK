@@ -25,12 +25,12 @@ function main() {
             if (resposta == 'c') {
 
                 alert('Meu Deus que fofo e assustador! A platéia está gostando de Kyu! continue assim meu amigo!');
-                window.location.href ='fase2.html'
+                window.location.href ='fase3.html'
                 break;
 
             } else {
 
-                alert('Ah não... Os outros participantes tomaram a liderança...');
+                alert('Ah não... João e Gadiel e seus pokémons venceram essa rodada...');
                 count++
             }
 
@@ -40,7 +40,7 @@ function main() {
             };
 
         } else {
-            alert('Hey por favor, leve isso a sério!');
+            alert('Foco >:( ');
         };
     };
 };

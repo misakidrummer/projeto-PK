@@ -30,7 +30,7 @@ function main() {
 
             } else {
 
-                alert('Ah não... Os outros participantes tomaram a liderança...');
+                alert('Ah não... Thaynara e Vulpix venceram essa rodada...');
                 count++
             }
 
@@ -40,7 +40,7 @@ function main() {
             };
 
         } else {
-            alert('Hey por favor, leve isso a sério!');
+            alert('foco meu amigo!');
         };
     };
 };
